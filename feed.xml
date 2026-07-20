@@ -5,15 +5,17 @@
     <description>Cameron's News and Updates</description>
     <link>https://cam-brenton.github.io/pos-feed/</link>
     <language>en-au</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:22:09 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:31:29 +1000</lastBuildDate>
     <atom:link href="https://cam-brenton.github.io/pos-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Cameron's RSS is live</title>
-      <description>Cameron's RSS is live: this feed carries Cameron's news and updates, published by his Personal Operating System.</description>
-      <content:encoded><![CDATA[<p>Cameron's RSS is live: this feed carries Cameron's news and updates, published by his Personal Operating System.</p>]]></content:encoded>
-      <guid isPermaLink="false">hello</guid>
-      <link>https://cam-brenton.github.io/pos-feed/#hello</link>
-      <pubDate>Mon, 20 Jul 2026 15:34:13 +1000</pubDate>
+      <title>Hello World!</title>
+      <description>This is the first live update from Cameron’s POS.</description>
+      <content:encoded><![CDATA[<p>This is the first live update from Cameron’s POS.</p>
+<p>Many more to come!</p>
+<p>Including this test edit!</p>]]></content:encoded>
+      <guid isPermaLink="false">ohCedn7j</guid>
+      <link>https://cam-brenton.github.io/pos-feed/#ohCedn7j</link>
+      <pubDate>Mon, 20 Jul 2026 16:31:29 +1000</pubDate>
     </item>
   </channel>
 </rss>
