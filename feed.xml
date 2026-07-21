@@ -5,8 +5,24 @@
     <description>Cameron's News and Updates</description>
     <link>https://cam-brenton.github.io/pos-feed/</link>
     <language>en-au</language>
-    <lastBuildDate>Mon, 20 Jul 2026 16:31:29 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:18:17 +1000</lastBuildDate>
     <atom:link href="https://cam-brenton.github.io/pos-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Cameron's Demonstration Post</title>
+      <description>This is a demo for Paul</description>
+      <content:encoded><![CDATA[<p>This is a demo for Paul</p>]]></content:encoded>
+      <guid isPermaLink="false">Cs9q8Cm2</guid>
+      <link>https://cam-brenton.github.io/pos-feed/#Cs9q8Cm2</link>
+      <pubDate>Tue, 21 Jul 2026 15:18:17 +1000</pubDate>
+    </item>
+    <item>
+      <title>A demonstration post</title>
+      <description>To demonstrate new publishing from the POS</description>
+      <content:encoded><![CDATA[<p>To demonstrate new publishing from the POS</p>]]></content:encoded>
+      <guid isPermaLink="false">kC7r4EqL</guid>
+      <link>https://cam-brenton.github.io/pos-feed/#kC7r4EqL</link>
+      <pubDate>Tue, 21 Jul 2026 15:18:17 +1000</pubDate>
+    </item>
     <item>
       <title>Hello World!</title>
       <description>This is the first live update from Cameron’s POS.</description>
